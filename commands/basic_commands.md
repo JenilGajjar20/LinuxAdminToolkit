@@ -11,7 +11,7 @@ pwd
 ### ls (list directory contents)
 
 - Lists files and directories.
-- Options include **-l** for long format and **-a** to show hidden files.
+- Options include **'-l'** for long format and **'-a'** to show hidden files.
 
 ```bash
 ls
@@ -22,7 +22,7 @@ ls -a
 ### cd (change directory)
 
 - changes the current directory.
-- **..** moves up one directory and **~** moves to the home directory
+- **'..'** moves up one directory and **'~'** moves to the home directory
 
 ```bash
 cd /path/to/directory
@@ -33,7 +33,7 @@ cd ~
 ### mkdir (make directory)
 
 - Creates a new directory.
-- **-p** is used to create parent directories as needed.
+- **'-p'** is used to create parent directories as needed.
 
 ```bash
 mkdir new_directory
