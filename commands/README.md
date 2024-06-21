@@ -4,7 +4,7 @@ Welcome to the Commands section of the LinuxAdminToolkit! This section provides 
 
 ## Table of Contents
 
-- [Basic Commands]()
+- [Basic Commands](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/commands/basic_commands.md)
 - [File Management]()
 - [Process Management]()
 - [User and Group Management]()
