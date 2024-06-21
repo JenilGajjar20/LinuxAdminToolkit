@@ -5,8 +5,8 @@ Welcome to the Commands section of the LinuxAdminToolkit! This section provides 
 ## Table of Contents
 
 - [Basic Commands](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/commands/basic_commands.md)
-- [File Management]()
-- [Process Management]()
-- [User and Group Management]()
-- [System Information]()
-- [Disk Usage]()
+- [File Management](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/commands/file_management.md)
+- [Process Management](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/commands/process_management.md)
+- [User and Group Management](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/commands/user_group_management.md)
+- [System Information](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/commands/system_information.md)
+- [Disk Usage](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/commands/disk_usage.md)
