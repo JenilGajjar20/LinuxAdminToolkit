@@ -5,7 +5,7 @@
 - displays information about the active processes
 
 ```bash
-ps uax
+ps aux
 ps -ef
 ```
 
