@@ -8,5 +8,5 @@ Welcome to the Networking section of the LinuxAdminToolkit! This section provide
 - [Subnetting]()
 - [Routing]()
 - [Firewalls]()
-- [Network Configuration]()
 - [Network Tools]()
+<!-- - [Network Configuration]() -->
