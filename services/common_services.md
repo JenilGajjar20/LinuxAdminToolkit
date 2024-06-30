@@ -50,13 +50,11 @@ sudo systemctl disable nginx
 
 **Configuration file**: `/etc/nginx/nginx.conf`
 
-### DNS (Domain Name System)
+### DHCP (Dynamic Host Configuration Protocol)
 
-- DNS services translate domain names to IP addresses.
+- DHCP assigns IP addresses to devices on a network.
 
 #### Common Commands:
-
-- BIND is a popular DNS server.
 
 ```bash
 sudo systemctl start isc-dhcp-server
@@ -67,3 +65,19 @@ sudo systemctl disable isc-dhcp-server
 ```
 
 **Configuration file**: `/etc/dhcp/dhcpd.conf`
+
+### MySQL
+
+- MySQL is a widely used relational database management system.
+
+#### Common Commands:
+
+```bash
+sudo systemctl start mysql
+sudo systemctl stop mysql
+sudo systemctl restart mysql
+sudo systemctl enable mysql
+sudo systemctl disable mysql
+```
+
+**Configuration file**: `/etc/mysql/my.cnf`

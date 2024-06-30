@@ -7,5 +7,5 @@ In Linux, services are managed using various tools depending on the distribution
 ## Table of Contents
 
 - [Service Management]()
+- [Service Configuration]()
 - [Common Services]()
-<!-- - [Service Configuration]() -->
