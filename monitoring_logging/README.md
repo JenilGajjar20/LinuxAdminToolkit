@@ -4,7 +4,7 @@ Welcome to the Monitoring and Logging section of the LinuxAdminToolkit! This sec
 
 ## Table of Contents
 
-- [System Monitoring](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/monitoring_logginging/system_monitoring.md)
+- [System Monitoring](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/monitoring_logging/system_monitoring.md)
 - [Log Management](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/monitoring_logging/log_management.md)
 - [Monitoring Tools](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/monitoring_logging/monitoring_tools.md)
 - [Log Analysis Tools](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/monitoring_logging/log_analysis_tools.md)
