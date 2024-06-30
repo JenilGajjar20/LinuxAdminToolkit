@@ -6,6 +6,6 @@ In Linux, services are managed using various tools depending on the distribution
 
 ## Table of Contents
 
-- [Service Management](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/networking/service_management.md)
-- [Service Configuration](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/networking/service_configuration.md)
-- [Common Services](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/networking/common_services.md)
+- [Service Management](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/services/service_management.md)
+- [Service Configuration](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/services/service_configuration.md)
+- [Common Services](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/services/common_services.md)
