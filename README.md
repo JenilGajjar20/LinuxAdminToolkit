@@ -7,7 +7,7 @@ Welcome to the LinuxAdminToolkit! This repository is a comprehensive collection 
 - [Commands](https://github.com/JenilGajjar20/LinuxAdminToolkit/tree/master/commands)
 - [Networking](https://github.com/JenilGajjar20/LinuxAdminToolkit/tree/master/networking)
 - [Services](https://github.com/JenilGajjar20/LinuxAdminToolkit/tree/master/services)
-- [Monitoring and Logging]() (In progress)
+- [Monitoring and Logging](https://github.com/JenilGajjar20/LinuxAdminToolkit/tree/master/monitoring_logging)
 - [Shell Scripting]() (In progress)
 - [Configurations Files]() (In progress)
 - [Contributing]() (In progress)
