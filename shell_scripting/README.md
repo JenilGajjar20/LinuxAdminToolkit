@@ -6,9 +6,9 @@ Shell Scripting allows you to automate repetitive tasks and perform complex oper
 
 ## Table of Contents
 
-- [Basic Shell Script Structure]()
-- [Variables]()
-- [Control Structures]()
+- [Basic Shell Script Structure](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/shell_scripting/basic_structure.md)
+- [Variables](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/shell_scripting/variables.md)
+- [Control Structures](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/shell_scripting/control_structures.md)
 - [Functions]()
 - [Input and Output]()
 - [Debugging and Error Handling]()
