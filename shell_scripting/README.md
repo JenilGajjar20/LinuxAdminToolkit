@@ -11,6 +11,6 @@ Shell Scripting allows you to automate repetitive tasks and perform complex oper
 - [Control Structures](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/shell_scripting/control_structures.md)
 - [Functions](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/shell_scripting/functions.md)
 - [Input and Output](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/shell_scripting/input_output.md)
-- [Debugging and Error Handling](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/shell_scripting/https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/shell_scripting/control_structures.md.md)
+- [Debugging and Error Handling](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/shell_scripting/debugging_error_handling.md)
 - [Advanced Topics](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/shell_scripting/advanced_topics.md)
 <!-- - [Examples]() -->
