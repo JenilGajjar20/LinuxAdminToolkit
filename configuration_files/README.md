@@ -6,9 +6,9 @@ Configuration Files in Linux are plain text files used to configure the operatin
 
 ## Table of Contents
 
-- [System Configuration Files]()
-- [Network Configuration Files]()
-- [Service Configuration Files]()
-- [Application Configuration Files]()
-- [Editing Configuration Files]()
-- [Backup and Restore Configuration Files]()
+- [System Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/system_cf.md)
+- [Network Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/network_cf.md)
+- [Service Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/service_cf.md)
+- [Application Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/application_cf.md)
+- [Editing Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/editing_cf.md)
+- [Backup and Restore Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/backup-restore_cf.md)
