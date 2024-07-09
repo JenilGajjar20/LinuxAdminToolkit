@@ -15,6 +15,6 @@ Welcome to the LinuxAdminToolkit! This repository is a comprehensive collection 
 
 Contributions are welcome! If you have any improvements, suggestions, or additional content, please feel free to submit a pull request or open an issue.
 
-Read the Guidelines [here]()
+Read the Guidelines [here](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/contributing.md)
 
 **Happy Learning 🚀**
