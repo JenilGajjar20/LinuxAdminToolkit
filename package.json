@@ -1,0 +1,19 @@
+{
+  "name": "linux-admin-toolkit",
+  "version": "1.0.0",
+  "description": "A comprehensive guide for Linux administrators.",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.19",
+    "@vuepress/theme-default": "^2.0.0-rc.68",
+    "sass-embedded": "^1.83.0",
+    "vuepress": "^2.0.0-rc.19"
+  }
+}
