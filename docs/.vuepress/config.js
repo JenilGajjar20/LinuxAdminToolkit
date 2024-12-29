@@ -91,25 +91,109 @@ export default defineUserConfig({
             text: "Services",
             link: "/administrator-manual/services/",
             collapsible: true,
-            children: [{}],
+            children: [
+              {
+                text: "Service Management",
+                link: "/administrator-manual/services/service-management",
+              },
+              {
+                text: "Service Configuration",
+                link: "/administrator-manual/services/service-configuration",
+              },
+              {
+                text: "Common Services",
+                link: "/administrator-manual/services/common-services",
+              },
+            ],
           },
           {
             text: "Monitoring and Logging",
             link: "/administrator-manual/monitoring-logging/",
             collapsible: true,
-            children: [{}],
+            children: [
+              {
+                text: "System Monitoring",
+                link: "/administrator-manual/monitoring-logging/system-monitoring",
+              },
+              {
+                text: "Log Management",
+                link: "/administrator-manual/monitoring-logging/log-management",
+              },
+              {
+                text: "Monitoring Tools",
+                link: "/administrator-manual/monitoring-logging/monitoring-tools",
+              },
+              {
+                text: "Log Analysis Tools",
+                link: "/administrator-manual/monitoring-logging/log-analysis-tools",
+              },
+            ],
           },
           {
             text: "Shell Scripting",
             link: "/administrator-manual/shell-scripting/",
             collapsible: true,
-            children: [{}],
+            children: [
+              {
+                text: "Basic Shell Script Structure",
+                link: "/administrator-manual/shell-scripting/basic-structure",
+              },
+              {
+                text: "Variables",
+                link: "/administrator-manual/shell-scripting/variables",
+              },
+              {
+                text: "Control Structures",
+                link: "/administrator-manual/shell-scripting/control-structures",
+              },
+              {
+                text: "Functions",
+                link: "/administrator-manual/shell-scripting/functions",
+              },
+              {
+                text: "Input and Output",
+                link: "/administrator-manual/shell-scripting/input-output",
+              },
+              {
+                text: "Debugging and Error Handling",
+                link: "/administrator-manual/shell-scripting/debugging-error-handling",
+              },
+              {
+                text: "Advanced Topics",
+                link: "/administrator-manual/shell-scripting/advanced-topics",
+              },
+            ],
           },
           {
             text: "Configurations Files",
             link: "/administrator-manual/configuration-files/",
             collapsible: true,
-            children: [{}],
+            children: [
+              {
+                text: "System Configuration Files",
+                link: "/administrator-manual/configuration-files/system-conf",
+              },
+              {
+                text: "Network Configuration Files",
+                link: "/administrator-manual/configuration-files/network-conf",
+              },
+              {
+                text: "Service Configuration Files",
+                link: "/administrator-manual/configuration-files/service-conf",
+              },
+              {
+                text: "Application Configuration Files",
+                link: "/administrator-manual/configuration-files/application-conf",
+              },
+              {
+                text: "Editing Configuration Files",
+                link: "/administrator-manual/configuration-files/editing-conf",
+              },
+              {
+                text: "Backup and Restore Configuration Files",
+                link: "/administrator-manual/configuration-files/backup-restore-conf",
+              },
+            ],
           },
         ],
       },
