@@ -27,7 +27,7 @@ export default defineUserConfig({
       //   },
       {
         text: "Administrator's Manual",
-        link: "/administrator-manual/",
+        // link: "/administrator-manual/",
         children: [
           {
             text: "Commands",
