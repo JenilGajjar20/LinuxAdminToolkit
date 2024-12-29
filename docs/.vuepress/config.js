@@ -3,6 +3,7 @@ import { defaultTheme } from "@vuepress/theme-default";
 import { defineUserConfig } from "vuepress";
 
 export default defineUserConfig({
+  base: "/LinuxAdminToolkit/",
   title: "LinuxAdminToolkit",
   description: "A comprehensive guide for Linux administrators.",
   bundler: viteBundler(),
