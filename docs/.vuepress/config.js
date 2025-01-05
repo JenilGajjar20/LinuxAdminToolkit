@@ -202,6 +202,7 @@ export default defineUserConfig({
     repoLabel: "GitHub",
     editLink: true,
     editLinkText: "Edit this page on GitHub",
+    docsBranch: "master",
     docsDir: "docs",
   }),
 });

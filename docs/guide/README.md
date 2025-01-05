@@ -4,12 +4,12 @@ Welcome to the **LinuxAdminToolkit** documentation! Whether you are a beginner o
 
 ## Table of Contents 📃
 
-- **Commands**:
-- **Networking**:
-- **Services**:
-- **Monitoring and Logging**:
-- **Shell Scripting**:
-- **Configuration Files**:
+- **Commands**: Master essential Linux commands for managing files, processes, users, and system resources.
+- **Networking**: Understand networking concepts, configure IP addresses, and troubleshoot network issues.
+- **Services**: Learn to manage and configure services to ensure a stable and secure Linux environment.
+- **Monitoring and Logging**: Explore tools and technologies for monitoring system performance and analyzing logs.
+- **Shell Scripting**: Automate repetitive tasks and improve efficiency with advanced shell scripting techniques.
+- **Configuration Files**: Edit, manage, and back up critical Linux configuration files.
 
 ## Contribution Guidelines 🤝
 
