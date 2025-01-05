@@ -4,11 +4,16 @@ Welcome to the Configuration Files section of the LinuxAdmin Toolkit! This secti
 
 Configuration Files in Linux are plain text files used to configure the operating system and applications. They are located in the `/etc` directory and in user home directories as dotfiles (e.g.: `.bashrc`)
 
-<!-- ## Table of Contents
+## Table of Contents
 
-- [System Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/system_cf.md)
-- [Network Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/network_cf.md)
-- [Service Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/service_cf.md)
-- [Application Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/application_cf.md)
-- [Editing Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/editing_cf.md)
-- [Backup and Restore Configuration Files](https://github.com/JenilGajjar20/LinuxAdminToolkit/blob/master/configuration_files/backup-restore_cf.md) -->
+- **[System Configuration Files](/LinuxAdminToolkit/administrator-manual/configuration-files/system-conf)**: Learn about essential system-level configuration files like `/etc/passwd`, `/etc/fstab`, etc.
+
+- **[Network Configuration Files](/LinuxAdminToolkit/administrator-manual/configuration-files/network-conf)**: Explore configuration files for network settings such as `/etc/network/interfaces` and `/etc/resolv.conf`.
+
+- **[Service Configuration Files](/LinuxAdminToolkit/administrator-manual/configuration-files/service-conf)**: Understand how to manage configuration files for services like Apache, MySQL, and SSH.
+
+- **[Application Configuration Files](/LinuxAdminToolkit/administrator-manual/configuration-files/application-conf)**: Discover how to locate and edit application-specific configuration files, such as `.vimrc` or `.gitconfig`.
+
+- **[Editing Configuration Files](/LinuxAdminToolkit/administrator-manual/configuration-files/editing-conf)**: Learn best practices for editing configuration files using text editors like `nano`, `vim`, or `gedit`.
+
+- **[Backup and Restore Configuration Files](/LinuxAdminToolkit/administrator-manual/configuration-files/backup-restore-conf)**: Understand how to safely backup and restore configuration files to avoid accidental misconfigurations.

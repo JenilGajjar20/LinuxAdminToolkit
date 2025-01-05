@@ -6,25 +6,27 @@ export default defineUserConfig({
   base: "/LinuxAdminToolkit/",
   title: "LinuxAdminToolkit",
   description: "A comprehensive guide for Linux administrators.",
+  head: [["link", { rel: "icon", href: "./favicon.ico" }]],
   bundler: viteBundler(),
   theme: defaultTheme({
     colorModeSwitch: false,
+    logo: "./images/linux-admin-logo.png",
     navbar: [
       { text: "Home", link: "/" },
       { text: "Guide", link: "/guide/" },
       { text: "About Me", link: "https://jenilgajjar.netlify.app/" },
     ],
     sidebar: [
-      //   {
-      // text: "Guide",
-      // link: "/guide/",
-      // children: [
-      //   {
-      //     text: "Getting Started",
-      //     link: "/guide/getting-started",
-      //   },
-      // ],
-      //   },
+      // {
+      //   text: "Guide",
+      //   link: "/guide/",
+      //   children: [
+      //     {
+      //       text: "Getting Started",
+      //       link: "/guide/getting-started",
+      //     },
+      //   ],
+      // },
       {
         text: "Administrator's Manual",
         // link: "/administrator-manual/",
