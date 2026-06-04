@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.19",
-    "@vuepress/theme-default": "^2.0.0-rc.68",
-    "sass-embedded": "^1.83.0",
-    "vuepress": "^2.0.0-rc.19"
+    "@vuepress/bundler-vite": "2.0.0-rc.27",
+    "@vuepress/theme-default": "2.0.0-rc.126",
+    "sass-embedded": "^1.98.0",
+    "vuepress": "2.0.0-rc.27"
   }
 }
